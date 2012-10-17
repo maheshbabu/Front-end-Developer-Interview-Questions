@@ -17,8 +17,8 @@
 * What is your preferred development environment? (OS, Editor, Browsers, Tools etc.) 
 * Can you describe your workflow when you create a web page? 
 * Can you describe the difference between progressive enhancement and graceful degradation? 
-	* Graceful degradation focuses on building the website for the most advanced/capable browsers. Testing in browsers deemed “older” or less capable usually takes place during the last quarter of the development cycle and is often restricted to the previous release of the major browsers (IE, Mozilla, etc.). Under this paradigm, older browsers are expected to have a poor, but passable experience. Small fixes may be made to accommodate a particular browser. Because they are not the focus, little attention is paid beyond fixing the most egregious errors.
-	* Progressive enhancement focuses on the content. Content is the reason we create websites to begin with. Some sites disseminate it, some collect it, some request it, some manipulate it, and some even do all of the above, but they all require it. That’s what makes progressive enhancement a more appropriate paradigm. It’s why Yahoo! swiftly adopted it and used it to create their Graded Browser Support strategy.
+	* Graceful degradation focuses on building the website for the most advanced/capable browsers. 
+	* Progressive enhancement focuses on enhancing a website by taking advantage of features detected within the user’s browser, instead of developing for the lowest common denominator.
 	* Extra bonus points for describing feature detection  
 * Explain what "Semantic HTML" means. 
 * What does "minification" do? 
